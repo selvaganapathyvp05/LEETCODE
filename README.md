@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
