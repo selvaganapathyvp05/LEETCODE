@@ -7,6 +7,4 @@ class Solution(object):
         while n!=0:
             c=c*10 + n%10
             n//=10
-        if x==c:
-            return True
-        return False
+        return x==c
