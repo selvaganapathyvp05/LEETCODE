@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/0278-first-bad-version) |
+| [0441-arranging-coins](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/0441-arranging-coins) |
 ## Interactive
 |  |
 | ------- |
@@ -23,5 +24,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/0009-palindrome-number) |
+| [0441-arranging-coins](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/0441-arranging-coins) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/2520-count-the-digits-that-divide-a-number) |
 <!---LeetCode Topics End-->
