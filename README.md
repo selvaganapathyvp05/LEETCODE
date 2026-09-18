@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/0035-search-insert-position) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -18,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/0001-two-sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/0278-first-bad-version) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -52,10 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 <!---LeetCode Topics End-->
