@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
