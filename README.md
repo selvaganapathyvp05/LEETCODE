@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Hash Table
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/selvaganapathyvp05/LLETCODE/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Two Pointers
 |  |
 | ------- |
